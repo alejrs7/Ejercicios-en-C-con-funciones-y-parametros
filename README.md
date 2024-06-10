@@ -1,11 +1,10 @@
-# Ejercicios-en-C-con-funciones-y-parametros
+# Ejercicios-en-C-con-funciones-y-procedimientos
 Aqui les comparto los links de cada ejercicio implementando las funciones y parametros:
 1. Suma de los digitos de un numero
 for:https://github.com/alejrs7/Ejercicios-en-C-con-funciones-y-parametros/commit/c377fd78f97be4b16d691be04c5e8540a2f5ec33#diff-bf99979c5ddd19884a4ea0f6c99a0242e3a95b4cf178b8e3cb152af2b599008d
 
-
-2.Inverso de un numero
-   while:https://github.com/alejrs7/Ejercicios-en-C-con-funciones-y-parametros/commit/145ad5bcf2a2ce299cefaeb5dee695803a495f80
+ 2.   Inverso de un numero
+   while    :https://github.com/alejrs7/Ejercicios-en-C-con-funciones-y-parametros/commit/145ad5bcf2a2ce299cefaeb5dee695803a495f80
 
 3. Potencia mediante sumas sucesivas
    for:https://github.com/alejrs7/Ejercicios-en-C-con-funciones-y-parametros/commit/b9897b8091322d4a72e363e1e89d7e2fba33e294
